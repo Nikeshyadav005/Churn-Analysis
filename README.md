@@ -1,3 +1,5 @@
+# Churn Analysis
+
 📊 Churn Analysis Project Summary
 🎯 Project Target
 
@@ -115,3 +117,7 @@ Python Notebook → Machine learning churn prediction.
 🔗 LinkedIn Post → Project showcase for professional networking.
 
 ✨ This project demonstrates how SQL, Power BI, and Python can be integrated to build a robust Customer Churn Analysis & Prediction System that drives data-driven decision-making.
+#Screeshot/Demo 
+https://github.com/Nikeshyadav005/Churn-Analysis/blob/main/Churn%20image.png
+#LinkedIn
+https://www.linkedin.com/in/nikesh-yadav-344732310
